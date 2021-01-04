@@ -1,0 +1,4 @@
+string accept_id
+uint32 timeout_sec # the accept_id will be dropped if the robot does not come in timeout_sec seconds
+---
+string[<=10] accept_ids

@@ -1,0 +1,3 @@
+string accept_id
+---
+string[<=10] accept_ids
